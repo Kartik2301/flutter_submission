@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "25580667991",
+    "project_id": "ombre-clone",
+    "storage_bucket": "ombre-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25580667991:android:60458111f39ecf62da8f12",
+        "android_client_info": {
+          "package_name": "co.appbrewery.dicee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25580667991-9noska91bdme1vodehb4i32v37s3s19h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64Pm_-91I1Aw00zoEUrhJTWxpmuCq0Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25580667991-9noska91bdme1vodehb4i32v37s3s19h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25580667991:android:2b7b068731b8d311da8f12",
+        "android_client_info": {
+          "package_name": "com.example.ombre_clone_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25580667991-9noska91bdme1vodehb4i32v37s3s19h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64Pm_-91I1Aw00zoEUrhJTWxpmuCq0Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25580667991-9noska91bdme1vodehb4i32v37s3s19h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
